@@ -1,0 +1,42 @@
+body{
+    background-color:greenyellow;
+    margin:0px;
+}
+
+header{
+    background-color:#333;
+    color:white;
+    padding:20px;
+    text-align:center;
+    display:block;
+    margin-top:none;
+}
+
+h1{
+    text-align: center;
+    font-size:42px;
+}
+#container{
+    margin:0px auto;
+    background-color: white;
+    padding:20px;
+    max-width:1000px;
+}
+p{
+    margin:20px 0px;
+    color:black;
+    font-size:21px;
+    line-height:1.5;
+}
+
+button{
+    background-color:#4caf50;
+    color:white;
+    border:none;
+    padding:12px 28px;
+    text-align:center;
+    text-decoration:none;
+    margin:20px auto;
+    display:block;
+    cursor:pointer;
+}
